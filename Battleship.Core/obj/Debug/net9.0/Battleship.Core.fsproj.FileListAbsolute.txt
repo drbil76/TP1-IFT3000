@@ -1,0 +1,14 @@
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\bin\Debug\net9.0\Battleship.Core.deps.json
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\bin\Debug\net9.0\Battleship.Core.dll
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\bin\Debug\net9.0\Battleship.Core.pdb
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\bin\Debug\net9.0\Battleship.Core.xml
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\Battleship.Core.fsproj.AssemblyReference.cache
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\Battleship.Core.AssemblyInfoInputs.cache
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\Battleship.Core.AssemblyInfo.fs
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\Battleship.Core.fsproj.CoreCompileInputs.cache
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\Battleship.Core.sourcelink.json
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\Battleship.Core.dll
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\refint\Battleship.Core.dll
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\Battleship.Core.xml
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\Battleship.Core.pdb
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Core\obj\Debug\net9.0\ref\Battleship.Core.dll

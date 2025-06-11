@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bdraa\\source\\repos\\drbil76\\TP1-IFT3000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794C873E-AA8A-4168-8CC3-C52C7B77B03C}|Battleship.Core\\Battleship.Core.fsproj|c:\\users\\bdraa\\source\\repos\\drbil76\\tp1-ift3000\\battleship.core\\ship.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{794C873E-AA8A-4168-8CC3-C52C7B77B03C}|Battleship.Core\\Battleship.Core.fsproj|solutionrelative:battleship.core\\ship.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0195639C-6670-4959-B989-86B0892DF68B}|Battleship.Web\\Battleship.Web.csproj|c:\\users\\bdraa\\source\\repos\\drbil76\\tp1-ift3000\\battleship.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0195639C-6670-4959-B989-86B0892DF68B}|Battleship.Web\\Battleship.Web.csproj|solutionrelative:battleship.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0195639C-6670-4959-B989-86B0892DF68B}|Battleship.Web\\Battleship.Web.csproj|c:\\users\\bdraa\\source\\repos\\drbil76\\tp1-ift3000\\battleship.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0195639C-6670-4959-B989-86B0892DF68B}|Battleship.Web\\Battleship.Web.csproj|solutionrelative:battleship.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bdraa\\source\\repos\\drbil76\\TP1-IFT3000\\Battleship.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Battleship.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\bdraa\\source\\repos\\drbil76\\TP1-IFT3000\\Battleship.Web\\Program.cs",
+              "RelativeToolTip": "Battleship.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:16:13.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ship.fs",
+              "DocumentMoniker": "C:\\Users\\bdraa\\source\\repos\\drbil76\\TP1-IFT3000\\Battleship.Core\\Ship.fs",
+              "RelativeDocumentMoniker": "Battleship.Core\\Ship.fs",
+              "ToolTip": "C:\\Users\\bdraa\\source\\repos\\drbil76\\TP1-IFT3000\\Battleship.Core\\Ship.fs",
+              "RelativeToolTip": "Battleship.Core\\Ship.fs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-11T07:09:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\bdraa\\source\\repos\\drbil76\\TP1-IFT3000\\Battleship.Web\\App.razor",
+              "RelativeDocumentMoniker": "Battleship.Web\\App.razor",
+              "ToolTip": "C:\\Users\\bdraa\\source\\repos\\drbil76\\TP1-IFT3000\\Battleship.Web\\App.razor",
+              "RelativeToolTip": "Battleship.Web\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T07:16:11.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -18,6 +18,14 @@ module Ship =
         | West
 
     type Ship = {Coords: Coord list; Center: Coord; Facing: Direction; Name: Name}
+    
+    //RECUÉRER LA TAILLE DU NAVIRE EN FONCTION DU NOM
+    let sizeOf name =
+        match name with 
+        | Spy |PatrolBoat -> 2
+        | Destroyer | Submarine -> 3
+        | Cruiser -> 4
+        | AircraftCarrier -> 5
 
     (* ------- À COMPLÉTER ------- *)
     (* --- Nouvelles fonctions --- *)

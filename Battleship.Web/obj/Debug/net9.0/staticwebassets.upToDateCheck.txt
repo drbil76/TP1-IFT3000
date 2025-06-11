@@ -1,0 +1,4 @@
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Web\wwwroot\css\app.css
+C:\Users\bdraa\source\repos\drbil76\TP1-IFT3000\Battleship.Web\wwwroot\index.html
+wwwroot\css\app.css
+wwwroot\index.html
